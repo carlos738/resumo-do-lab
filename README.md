@@ -47,11 +47,12 @@ Aqui estão algumas maneiras de usar máquinas virtuais:
     Acessar dados infectados por vírus ou executar um aplicativo antigo instalando um sistema operacional mais antigo.
     Executar software ou aplicativos em sistemas operacionais para os quais eles não foram originalmente destinados.
 
-
-
 # Rede
-
+	Quando você cria uma VM, você cria também uma rede virtual ou também pode usar uma rede já existente. Você pode decidir como elas devem ser acessadas na rede virtual. É importante planejar antes de criar recursos e compreender os limites de recursos de rede.
 # Banco de Dados
+	O Azure oferece várias opções de banco de dados relacionais e não relacionais para todas as suas necessidades de aplicativos. A inteligência integrada automatiza  tarefas de geenciamento.
+
 # Armazenamento
+
 4. Conclusão
 
